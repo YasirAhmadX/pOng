@@ -2,3 +2,6 @@ theme: jekyll-theme-architect
 title: pOng
 description: 
 show_downloads: ["true"]
+github:
+  download_release: https://github.com/EccentricX/pOng/releases/download/2.0/pOng_setup.exe 
+  owner_url: https://github.com/EccentricX
