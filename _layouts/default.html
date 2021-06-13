@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+    <title>pOng</title>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -26,7 +27,7 @@
           <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
         {% endif %}
         {% if site.github.is_user_page %}
-          <a href="{{ github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
+          <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
         {% endif %}
       </div>
     </header>
@@ -39,7 +40,7 @@
 
         <aside id="sidebar">
           {% if site.show_downloads %}
-            <a href="{{ github.download_release }}" class="button">
+            <a href="{{ site.github.download_release }}" class="button">
               <small>Download</small>
               pOng2.0
             </a>
