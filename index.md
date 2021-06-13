@@ -13,5 +13,6 @@
 pOng2.0 features a GUI interface and has 3 game modes : _"play against yourself"_ , _"play against superbot"_ , _"play squash pong"_.
 Your movements are collected while you play and those are used to train a bot against which you can play in _"play against yourself "_ mode.
 
->[**Download pOng2.0 setup.**](https://github.com/EccentricX/pOng/releases/download/2.0/pOng_setup.exe)
-[**Download pOng2.0 setup.**](https://github.com/EccentricX/pOng/releases/download/2.0/pOng_setup.exe){: .btn}
+>[**Download pOng2.0 setup.**](https://github.com/EccentricX/pOng/releases/download/2.0/pOng_setup.exe) 
+
+<button name="button" onclick="http://www.google.com">Download pOng2.0 setup. </button>
