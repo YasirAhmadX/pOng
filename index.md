@@ -15,4 +15,4 @@ Your movements are collected while you play and those are used to train a bot ag
 
 >[**Download pOng2.0 setup.**](https://github.com/EccentricX/pOng/releases/download/2.0/pOng_setup.exe) 
 
-<button name="button" onclick="http://www.google.com">Download pOng2.0 setup. </button>
+<button name="button" onclick="http://www.google.com">**Download pOng2.0 setup.**</button>
