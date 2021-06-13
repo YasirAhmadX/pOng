@@ -1,0 +1,18 @@
+pOng v2.0
+
+#Game Modes
+1. Play against yourself > You play against a bot who uses Machine Learning (KNN algorithm) to learn how you play 
+    and mimiks your movements
+2. Play against SuperBot > Playing superbot will help you decode the working principle of the game and help you 
+    realise that with right technique , you are unbeatable
+3. Play sQuash pOng > Its a single player pong game . Your movements with mouse are collected and fed to 
+    machine learning algorithm to train the bot aganst whom you play in menu > option-1.
+
+#Game Controles
+Game is played mainly with mouse(no clicks) , User can press Esc (Escape key) to leave the game without waiting for
+gameover. Player can't pause the game.
+
+#Scoring
+Player get a score of +100 if he hits the ball and get a bonus score for the positon in pad from which ball was
+hit ,i.e. is player hits the ball from centre of the pad , bonus is 0 but if hits from edge of the pad , 
+bonus score is +50.
