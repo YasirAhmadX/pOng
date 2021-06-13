@@ -27,4 +27,4 @@ Player get a score of +100 if he hits the ball and get a bonus score for hitting
 ,i.e. if player hits the ball from centre of the pad , bonus is 0 but if hits from edge of the pad , 
 bonus score is +50.
 
-**ENJOY**
+# **ENJOY!!!**
